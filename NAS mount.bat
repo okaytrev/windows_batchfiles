@@ -1,0 +1,1 @@
+net use z: \\HS-NAS1\images Masondew*14 /user:HS-NAS1\trevar.hupf /persistent:no

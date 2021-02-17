@@ -1,0 +1,1 @@
+copy "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Four Winds Interactive\Content Player.lnk" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"

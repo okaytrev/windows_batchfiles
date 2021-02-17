@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Four Winds Interactive\Content Player\Signage.exe" /licenseKey=QUR46-2ZZRY-S72UM-TNP54-8DFKJ-4

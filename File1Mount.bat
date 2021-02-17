@@ -1,0 +1,1 @@
+net use \\file1\hardwaresolutions /user:fwi\elentz 4633#M0nk3y!

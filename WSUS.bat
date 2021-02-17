@@ -1,0 +1,3 @@
+wuauclt /detectnow
+
+wuauclt /reportnow

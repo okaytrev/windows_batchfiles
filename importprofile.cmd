@@ -1,0 +1,1 @@
+netsh wlan add profile filename="hhonors.xml" user=all

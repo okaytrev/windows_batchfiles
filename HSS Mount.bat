@@ -1,0 +1,1 @@
+net use z: "\\hsservices\Hardware Solutions" Smooth-Complication-7 /user:hardwaresolutions /persistent:no
